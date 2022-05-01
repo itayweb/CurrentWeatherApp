@@ -1,0 +1,17 @@
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/bin/Debug/net6.0/GetCurrentWeather
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/bin/Debug/net6.0/GetCurrentWeather.deps.json
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/bin/Debug/net6.0/GetCurrentWeather.runtimeconfig.json
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/bin/Debug/net6.0/GetCurrentWeather.dll
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/bin/Debug/net6.0/GetCurrentWeather.pdb
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.csproj.AssemblyReference.cache
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.GeneratedMSBuildEditorConfig.editorconfig
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.AssemblyInfoInputs.cache
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.AssemblyInfo.cs
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.csproj.CoreCompileInputs.cache
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.dll
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/refint/GetCurrentWeather.dll
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.pdb
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.genruntimeconfig.cache
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/ref/GetCurrentWeather.dll
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/itay/RiderProjects/GetCurrentWeather/GetCurrentWeather/obj/Debug/net6.0/GetCurrentWeather.csproj.CopyComplete
